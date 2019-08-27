@@ -1,2 +1,5 @@
 # Custom-TF2-Files
-Everything. Hud, Config, Nohats, Xhairs.
+
+Everything I use: Hud, Config, Nohats, Xhairs.
+
+Installation is very simple, just read the folder names.
