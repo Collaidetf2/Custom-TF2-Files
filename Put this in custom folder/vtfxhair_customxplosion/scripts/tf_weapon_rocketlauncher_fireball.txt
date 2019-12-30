@@ -82,7 +82,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/collaide_cross"
+				"file"		"vgui/replay/thumbnails/collaide_cross_tiny"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

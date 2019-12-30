@@ -1,4 +1,4 @@
-# nühud
+# nühud (collaide edit. following comments are made by the original author)
 
 I got tired of ahud and made a new hud.
 
