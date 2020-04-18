@@ -1,0 +1,46 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_frontline/Helicopter_blu"
+	"$bumpmap"     "models/props_frontline/Helicopter_normal"
+	"$basemapalphaphongmask" "0"
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "1"	
+
+	"$lightwarptexture"		"models/player/pyro/pyro_lightwarp"
+
+
+	"$envmap" "env_cubemap" 
+
+	"$phongfresnelranges"     "[.25 .5 1]"
+
+	"$rimlight" "2"						
+	"$rimlightexponent" "20"				
+	"$rimlightboost" ".25"
+
+	"$glowcolor" "1"
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"weapon_invis"
+		{
+		}
+		"ModelGlowColor"
+		{
+			"resultVar" "$glowcolor"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$selfillumtint"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$color2"
+		}
+	}
+}

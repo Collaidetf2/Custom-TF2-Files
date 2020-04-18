@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/props_frontline/sandbag_individual"
+	"$bumpmap"		"models/props_frontline/sandbag_individual_normal"
+	 $nodecal "1"
+}

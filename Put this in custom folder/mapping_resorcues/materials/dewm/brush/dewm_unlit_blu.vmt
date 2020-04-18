@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"			"dewm/brush/dewm_unlit_blu"
+	$selfillum 1
+}

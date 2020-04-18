@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_frontline/crate_tarp_1"
+	
+	"$bumpmap" "models/props_frontline/crate_tarp_1_normal"
+
+}
