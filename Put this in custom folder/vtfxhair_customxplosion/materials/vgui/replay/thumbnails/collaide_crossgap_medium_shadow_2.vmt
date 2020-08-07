@@ -1,7 +1,7 @@
 "UnlitGeneric"
 {
 	"$translucent"	1
-	"$basetexture" "vgui\replay\thumbnails\fatx"
+	"$basetexture" "vgui\replay\thumbnails\collaide_crossgap_medium_shadow_2"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

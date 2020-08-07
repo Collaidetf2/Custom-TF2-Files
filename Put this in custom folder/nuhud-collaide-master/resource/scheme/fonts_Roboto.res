@@ -937,6 +937,28 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"nüBoldOutline50"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"50"
+				"additive"  "0"
+				"antialias"	"1"
+				"outline"	"1"
+			}
+		}
+		"nüMediumOutline12"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"10"
+				"additive"  "0"
+				"antialias"	"1"
+				"outline"	"1"
+			}
+		}
 		"nüBoldBlur50"
 		{
 			"1"
@@ -1463,6 +1485,17 @@ Scheme
 				"tall"		"30"
 				"additive"  "0"
 				"antialias"	"1"
+			}
+		}
+		"nüMediumOutline30"
+		{
+			"1"
+			{
+				"name"		"Roboto Medium"
+				"tall"		"30"
+				"additive"  "0"
+				"antialias"	"1"
+				"outline"	"1"
 			}
 		}
 		"nüMediumBlur30"

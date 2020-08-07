@@ -5,9 +5,9 @@
 {
 	"Spacer"
 	{
-		"ypos"			"c145"		// Vertical position of health, ammo, and ubercharge
-		"wide"			"320"		// Distance between health, ammo, and ubercharge
-		"tall"			"45"		// Vertical position of item meters
+		"ypos"			"c192"		// Vertical position of health, ammo, and ubercharge
+		"wide"			"450"		// Distance between health, ammo, and ubercharge
+		"tall"			"10"		// Vertical position of item meters
 	}
 
 // Note: Certain HUD Elements are not repositioned when changing the values above.
@@ -17,16 +17,16 @@
 
 	CHudAccountPanel
 	{
-		"xpos"			"c-60"		// Do not change to keep centered
-		"ypos"			"c102"
+		"xpos"			"c-100"		// Do not change to keep centered
+		"ypos"			"c150"
 	}
 
 // Health pickup number
 
 	CHealthAccountPanel
 	{
-		"xpos"			"c-120"
-		"ypos"			"c105"
+		"xpos"			"c-135"
+		"ypos"			"c180"
 	}
 
 // Target IDs

@@ -54,7 +54,7 @@ WeaponData
 
 		"crosshair"
 		{
-				"file"	"vgui/replay/thumbnails/circle"
+				"file"	"vgui/replay/thumbnails/collaide_fatsquare"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
