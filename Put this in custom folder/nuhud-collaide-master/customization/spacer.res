@@ -5,9 +5,9 @@
 {
 	"Spacer"
 	{
-		"ypos"			"c192"		// Vertical position of health, ammo, and ubercharge
-		"wide"			"450"		// Distance between health, ammo, and ubercharge
-		"tall"			"10"		// Vertical position of item meters
+		"ypos"			"c100"		// Vertical position of health, ammo, and ubercharge
+		"wide"			"384"		// Distance between health, ammo, and ubercharge
+		"tall"			"48"		// Vertical position of item meters
 	}
 
 // Note: Certain HUD Elements are not repositioned when changing the values above.
