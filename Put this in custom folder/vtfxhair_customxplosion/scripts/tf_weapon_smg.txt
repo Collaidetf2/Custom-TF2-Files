@@ -79,7 +79,7 @@ WeaponData
 		}
 		"crosshair"
 		{		
-				"file"	"vgui/replay/thumbnails/collaide_dot"
+				"file"	"vgui/replay/thumbnails/collaide_fatcrossgap2"
 				"x"			"0"
 				"y"			"0"
 				"width"		"64"
