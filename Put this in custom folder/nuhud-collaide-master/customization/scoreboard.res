@@ -1,4 +1,4 @@
-// Uncomment for alt. 6s scoreboard
+// Uncomment for alt. 6s scoreboard.
 
 	//#base "../resource/ui/scoreboard_alt6s.res"
 
